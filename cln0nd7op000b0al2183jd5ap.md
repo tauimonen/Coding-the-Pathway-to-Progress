@@ -1,5 +1,5 @@
 ---
-title: "Data Science: What is data science and how does it fail?"
+title: "Data science: What is data science and how does it fail?"
 seoTitle: "Data Science"
 seoDescription: "What is data science and how does it fail?"
 datePublished: Tue Sep 26 2023 18:24:47 GMT+0000 (Coordinated Universal Time)
