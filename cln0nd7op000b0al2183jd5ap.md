@@ -10,8 +10,6 @@ tags: data, data-science, data-analysis
 
 ---
 
-### Introduction
-
 Data science has become one of the most important tools for organizations when they want to find value from the data they have collected. Organizations strive to optimize their operations with data science methods and it affects life in many ways today. According to Koty & Deshpande (2019), “*Some of the ways that data science may affect your daily life include determining which advertisements are presented to you online; which movies, books, and friend connections are recommended to you; which emails are filtered into your spam folder; what offers you receive when you renew your cell phone service; the cost of your health insurance premium; the sequencing and timing of traffic lights in your area; how the drugs you may need were designed; and which locations in your city the police are targeting.*”
 
 Definitions consider data scientists rather than mathematicians and computer science researchers who come up with new ways to analyze data. Drew Conway’s Venn diagram of data science (Conway, 2015) places data science as an interdisciplinary activity with three dimensions: domain expertise, mathematics, and computer science. User-friendly data science tools have lowered the barriers to entry into data science (Kelleher & Tierney, 2018) and many of the tools are advertised as easy to use and claim to deliver results with certainty. In this paper, I try to prove, that data science fails without multidisciplinary expertise. Without domain knowledge, mathematics, and computer science, data science projects can lead to faulty results and conclusions.
