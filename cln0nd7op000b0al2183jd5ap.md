@@ -6,6 +6,7 @@ datePublished: Tue Sep 26 2023 18:24:47 GMT+0000 (Coordinated Universal Time)
 cuid: cln0nd7op000b0al2183jd5ap
 slug: data-science-what-is-data-science-and-how-does-it-fail
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/JKUTrJ4vK00/upload/95bf67cc5209b6f607176c1a217565a4.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695892032263/df810fc1-2455-45f0-9daa-f9cf57a41c90.jpeg
 tags: data, data-science, data-analysis
 
 ---
