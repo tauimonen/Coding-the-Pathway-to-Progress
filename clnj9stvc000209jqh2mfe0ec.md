@@ -20,7 +20,7 @@ This raises questions about whether it is fair for low-income individuals to be 
 
 However, it's essential to note that discrimination doesn't always stem from the algorithms themselves. It can also result from errors or gaps in training data or the incorrect selection of variables. Thus, it is always the responsibility of humans to ensure that artificial intelligence does not lead to discrimination.
 
-Equality laws prohibit discrimination and also apply to the use of artificial intelligence. Discrimination criteria can vary and may relate to factors like place of residence or social status. In Finland, gender-based discrimination is prohibited by gender equality laws.
+Finnish equality laws prohibit discrimination and also apply to the use of artificial intelligence. Discrimination criteria can vary and may relate to factors like place of residence or social status. In Finland, gender-based discrimination is prohibited by gender equality laws. The AI act of the European Parliament has also identified in the category "Unacceptable risk" e.g. Social scoring: classifying people based on behavior, socioeconomic status, or personal characteristics" (source: European Parliament, [https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence](https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence)).
 
 In conclusion, is it right to grant companies the authority to choose their customers and set their prices? This is a complex question that requires careful consideration. Nonetheless, businesses must adhere to the law and ensure that their decision-making is fair and non-discriminatory.
 
