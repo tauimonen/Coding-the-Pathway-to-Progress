@@ -20,7 +20,7 @@ This raises questions about whether it is fair for low-income individuals to be 
 
 However, it's essential to note that discrimination doesn't always stem from the algorithms themselves. It can also result from errors or gaps in training data or the incorrect selection of variables. Thus, it is always the responsibility of humans to ensure that artificial intelligence does not lead to discrimination.
 
-Equality laws prohibit discrimination and also apply to the use of artificial intelligence. Discrimination criteria can vary and may relate to factors like place of residence or social status. Gender-based discrimination is prohibited by gender equality laws.
+Equality laws prohibit discrimination and also apply to the use of artificial intelligence. Discrimination criteria can vary and may relate to factors like place of residence or social status. In Finland, gender-based discrimination is prohibited by gender equality laws.
 
 In conclusion, is it right to grant companies the authority to choose their customers and set their prices? This is a complex question that requires careful consideration. Nonetheless, businesses must adhere to the law and ensure that their decision-making is fair and non-discriminatory.
 
