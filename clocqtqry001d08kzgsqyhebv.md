@@ -22,17 +22,17 @@ This visualization helped Snow draw the conclusion that cholera was spreading th
 
 ### Tools
 
-Many programming languages offer many tools for data visualization. For example, Python\[2\] is a popular programming language in the field of data science and it offers several libraries for data visualization, such as Matplotlib\[2\], Seaborn\[3\], and Plotly\[4\]. In Java\[5\], visualization can be performed with, for example, JFreeCart\[6\], JavaFX\[7\], XChart\[8\], and so on. Those libraries are suitable for people with programming skills, while the following ones are mainly intended for business and data analysts, as well as for individuals who do not want to rely on programming.
+Many programming languages offer many tools for data visualization. For example, Python\[2\] is a popular programming language in the field of data science and it offers several libraries for data visualization, such as Matplotlib\[3\], Seaborn\[4\], and Plotly\[5\]. In Java\[6\], visualization can be performed with, for example, JFreeCart\[7\], JavaFX\[8\], XChart\[9\], and so on. Those libraries are suitable for people with programming skills, while the following ones are mainly intended for business and data analysts, as well as for individuals who do not want to rely on programming.
 
-**Google Sheets** \[9\] is a web-based spreadsheet tool with basic data visualization capabilities, suitable for individuals and small teams.
+**Google Sheets** \[10\] is a web-based spreadsheet tool with basic data visualization capabilities, suitable for individuals and small teams.
 
-**Looker**\[10\] is a business intelligence platform designed for in-depth data exploration and visualization, ideal for data-driven organizations.
+**Looker**\[11\] is a business intelligence platform designed for in-depth data exploration and visualization, ideal for data-driven organizations.
 
-**Microsoft Power BI**\[11\] is a comprehensive data visualization platform that seamlessly integrates with Microsoft's ecosystem, offering strong collaboration features.
+**Microsoft Power BI**\[12\] is a comprehensive data visualization platform that seamlessly integrates with Microsoft's ecosystem, offering strong collaboration features.
 
-**Qlik Sense**\[12\] is a powerful data visualization and business intelligence tool known for its associative data model and interactive visualizations, making it a top choice for data exploration.
+**Qlik Sense**\[13\] is a powerful data visualization and business intelligence tool known for its associative data model and interactive visualizations, making it a top choice for data exploration.
 
-**Tableau\[13\]** is a renowned data visualization and business intelligence tool with a user-friendly interface for creating interactive dashboards and reports.
+**Tableau\[14\]** is a renowned data visualization and business intelligence tool with a user-friendly interface for creating interactive dashboards and reports.
 
 ### Distorting Data Through Visualization
 
@@ -58,18 +58,20 @@ Data visualization is an effective means to make complex data understandable and
     
 5. Plotly, Website: [https://plotly.com/](https://plotly.com/)
     
-6. **JFreeChart**, [http://www.jfree.org/jfreechart/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
+6. Java, [https://www.java.com/](https://www.java.com/en/)
     
-7. **JavaFX**, [https://openjfx.io/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
+7. **JFreeChart**, [http://www.jfree.org/jfreechart/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
     
-8. **XChart**, [https://knowm.org/open-source/xchart/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
+8. **JavaFX**, [https://openjfx.io/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
     
-9. **Google Sheets,** https://www.google.com/sheets/about
+9. **XChart**, [https://knowm.org/open-source/xchart/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
     
-10. **Looker**, [https://www.looker.com/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
+10. **Google Sheets,** https://www.google.com/sheets/about
     
-11. **Microsoft Power BI**, [https://powerbi.microsoft.com/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
+11. **Looker**, [https://www.looker.com/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
     
-12. **Qlik Sense**, [https://www.qlik.com/us/products/qlik-sense](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
+12. **Microsoft Power BI**, [https://powerbi.microsoft.com/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
     
-13. **Tableau,** [https://www.tableau.com/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
+13. **Qlik Sense**, [https://www.qlik.com/us/products/qlik-sense](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
+    
+14. **Tableau,** [https://www.tableau.com/](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
